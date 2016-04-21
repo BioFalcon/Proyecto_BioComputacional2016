@@ -19,3 +19,7 @@ output:
 <center>![](./Figs/FigS3.png )  
 
 <center>Figura S3- Visualización de los dos primeros componentes principales de los datos
+<br><br><br><br>
+<center>![](./Figs/FigS4.png)  
+
+<center>Figura S4- Heatmap representando a los 25 genes con la mayor media de cuentas en ambas muestras.
